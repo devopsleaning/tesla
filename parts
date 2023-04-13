@@ -7,7 +7,7 @@
 #SPECIFY THE PARTS AND COLORS
 do 
 
-tires 
+tire
 
 echo "black tires"
 
@@ -16,6 +16,6 @@ seats
 
 echo "red seats"
 
-echo "'
+echo ""
 
 done
